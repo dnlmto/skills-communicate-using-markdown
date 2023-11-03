@@ -1,1 +1,1 @@
-# <h1> Header for Markdown exercise.
+# Header for Markdown exercise
